@@ -19,18 +19,55 @@ Results-driven Full Stack Developer with expertise in ReactJS, Node.js, Express.
 </p>
 
 
+
+## Skills 💻
+
+### Frontend:
+- **HTML5**, **CSS3**, **JavaScript (ES6+)** , **TailwindCss**
+- **React.js**, **Next.js**
+- **Tailwind CSS**, **Bootstrap**
+
+### Backend:
+- **Node.js**, **Express.js** ,**Next.js**
+- **RESTful APIs**, **GraphQL**
+
+### Databases:
+- **MongoDB**, **MySQL**, **PostgreSQL**
+
+### Tools & Platforms:
+- **Git**, **GitHub**, **Netlify**, **Vercel**
+- **Figma** (UI/UX Design)
+- Learning: **DevOps**, **Cloud Computing**
+
+---
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/priyanshupanwar066" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/priyanshupanwar__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/priyanshu-panwar-51819" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@priyanshupanwar__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+## Badges 🎖️
 
-<a href="http://www.github.com/priyanshupanwar066"><img src="https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="priyanshupanwar066's GitHub stats" /></a>
+Here are some fun badges to showcase my skills and contributions:
 
-<a href="http://www.github.com/priyanshupanwar066"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupanwar066&stroke=ef4444&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&layout=compact&theme=radical)
 
-<a href="http://www.github.com/priyanshupanwar066"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshupanwar066&bg_color=171717&color=ef4444&line=0891b2&point=ef4444&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/priyanshupanwar066" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Fun Facts 🧠
+
+- I’m currently learning **DevOps** and **Cloud Computing** to level up my development workflow.
+- I enjoy contributing to open-source projects and sharing knowledge with the developer community.
+- Outside of coding, I love exploring new technologies, reading about software architecture, and staying updated with industry trends.
+
+---
+
+## Let’s Build Something Amazing Together! 🚀
+
+Whether you’re looking for a collaborator, mentor, or just want to chat about tech, feel free to reach out. I’m always excited to connect with like-minded individuals and contribute to meaningful projects.
+
+---
+
+
+
