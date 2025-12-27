@@ -1,38 +1,36 @@
-<h1 align="center">👋 Hi, I'm Priyanshu Panwar</h1>
-<h3 align="center">Full Stack Developer → Cloud & DevOps Engineer (In Progress)</h3>
+<h1 align="center">Hi 👋, I'm Priyanshu Panwar</h1>
+<h3 align="center">Full Stack Developer | Aspiring Cloud & DevOps Engineer</h3>
 
 <p align="center">
-  <a href="https://priyanshu-panwar-dev.netlify.app" target="_blank">
+  <a href="https://priyanshu-panwar-dev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" />
   </a>
   <a href="mailto:priyanshupanwar841@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/priyanshu-panwar-51819" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-panwar-51819">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Professional Summary
 
-🚀 Aspiring **Cloud & DevOps Engineer** with a strong foundation in **Full Stack Development**.  
-I aim to design, deploy, and scale **secure, cloud-native applications** using modern DevOps practices.
+Results-oriented **Full Full Stack Developer** with a strong foundation in **modern web technologies** and a growing focus on **Cloud Computing & DevOps**.  
+Experienced in building scalable, secure, and user-centric applications with clean architecture and performance in mind.
 
-✔ Strong understanding of **web architecture**  
-✔ Hands-on with **real-world projects**  
-✔ Actively learning **AWS, Docker, CI/CD & Cloud fundamentals**
+Currently transitioning toward **Cloud / DevOps engineering**, with hands-on practice in deployment, system fundamentals, and automation concepts.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🌍 Based in **India**
-- 💼 Full Stack Developer (MERN + Next.js)
-- ☁️ Transitioning into **Cloud Computing & DevOps**
-- 🧠 Learning **AWS | Docker | CI/CD | Linux**
-- 🤝 Open to **Junior Cloud / DevOps / Software Engineer roles**
+- 💻 Background in **MERN Stack & Next.js**
+- ☁️ Actively learning **Cloud Computing & DevOps**
+- 🧠 Strong understanding of **Web Architecture & APIs**
+- 🤝 Open to **entry-level Cloud / DevOps / Software roles**
 
 ---
 
@@ -44,63 +42,35 @@ I aim to design, deploy, and scale **secure, cloud-native applications** using m
 - Tailwind CSS, Bootstrap, Material UI
 
 ### ⚙️ Backend
-- Node.js, Express.js, Next.js
-- REST APIs, Authentication (JWT)
+- Node.js, Express.js
+- RESTful APIs, Authentication (JWT)
 
 ### 🗄️ Databases
-- MongoDB, MySQL, PostgreSQL
+- MongoDB
+- MySQL
+- PostgreSQL
 
 ### ☁️ Cloud & DevOps (Learning & Practicing)
 - Linux Fundamentals
-- AWS (EC2, S3 – Learning)
-- Docker & Container Basics
-- CI/CD (GitHub Actions – Learning)
-- Deployment: Netlify, Vercel
+- Cloud Basics (AWS – EC2, S3)
+- Docker (Containers & Images)
+- CI/CD Fundamentals (GitHub Actions)
+- Application Deployment (Netlify, Vercel)
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 - Git, GitHub
 - VS Code
-- Figma (UI/UX)
+- Figma (UI/UX Design)
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Areas of Interest
 
-### 🔹 Namaste Jobs – Job Portal (MERN Stack)
-📌 **Role:** Full Stack Developer  
-📌 **Tech:** React, Node.js, Express, MongoDB, JWT  
-
-- Admin & User authentication
-- Role-based dashboards
-- Job CRUD operations
-- Secure API handling
-
-🔗 **Live:** https://namaste-jobs.vercel.app  
-🔗 **Repo:** https://github.com/priyanshupanwar066
-
----
-
-### 🔹 FluentAI – AI English Feedback Tool
-📌 **Role:** Frontend + API Integration  
-📌 **Tech:** Next.js, Tailwind CSS, APIs  
-
-- AI-powered English feedback UI
-- Secure authentication flow
-- Clean and responsive design
-
-🔗 **Live:** https://fluent-ai.vercel.app  
-🔗 **Repo:** https://github.com/priyanshupanwar066
-
----
-
-### 🔹 Portfolio Website
-📌 **Tech:** React, Tailwind CSS  
-
-- Personal brand website
-- Showcases projects & skills
-- Deployed on Netlify
-
-🔗 **Live:** https://priyanshu-panwar-dev.netlify.app
+- Cloud Infrastructure & Deployment
+- DevOps & Automation
+- Scalable Backend Systems
+- System Design (Beginner Level)
+- Security & Best Practices
 
 ---
 
@@ -113,24 +83,14 @@ I aim to design, deploy, and scale **secure, cloud-native applications** using m
 
 ---
 
-## ☁️ Current Learning Roadmap
+## 🤝 Professional Interests
 
-✔ Linux & Networking Basics  
-✔ AWS Core Services  
-✔ Docker & Containers  
-✔ CI/CD Pipelines  
-✔ Cloud Security Fundamentals  
-
----
-
-## 🤝 Let’s Connect
-
-💼 Open to:
-- **Cloud Engineer (Fresher / Intern)**
-- **DevOps Engineer (Junior)**
+Currently seeking opportunities as:
+- **Junior Cloud Engineer**
+- **DevOps Engineer (Fresher / Trainee)**
 - **Software Engineer (Cloud-focused)**
 
-📩 Email: **priyanshupanwar841@gmail.com**  
-🔗 Portfolio: **priyanshu-panwar-dev.netlify.app**
+📩 **Email:** priyanshupanwar841@gmail.com  
+🌐 **Portfolio:** priyanshu-panwar-dev.netlify.app  
 
-⭐ *If you like my work, don’t forget to star my repositories!*
+⭐ *Feel free to explore my repositories and connect with me.*
