@@ -1,98 +1,251 @@
-# Hi, I'm Priyanshu Panwar 👋
+<h1 align="center">👋 Hi, I'm Priyanshu Panwar</h1>
 
-**Full Stack Developer | Cloud & DevOps Engineer**
+<h3 align="center">
+Full Stack Developer • Cloud & DevOps Engineer (Aspiring) • Software Engineer
+</h3>
 
-Building scalable web applications and exploring cloud infrastructure. Passionate about clean code, system design, and modern development practices.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems;Learning+AWS+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Active+Learner+%7C+Problem+Solver" />
+</p>
 
----
-
-## 🚀 About Me
-
-I'm a Full Stack Developer with expertise in the MERN stack and Next.js, currently expanding my skills into Cloud Computing and DevOps. I focus on building efficient, scalable applications with a strong emphasis on architecture and performance.
-
-- 🌍 Based in India
-- 💼 Full Stack Developer specializing in modern web technologies
-- ☁️ Exploring AWS, Docker, and DevOps practices
-- 🎯 Open to opportunities in Software Engineering and Cloud Development
-- 📫 Reach me at: **priyanshupanwar841@gmail.com**
-
----
-
-## 🛠️ Technical Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshupanwar066&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-> Check out my pinned repositories below for examples of my work!
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priyanshu-panwar-51819" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:priyanshupanwar841@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://priyanshu-panwar-dev.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
+<p align="center">
+  <a href="https://priyanshu-panwar-dev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=netlify" />
+  </a>
+  <a href="mailto:priyanshupanwar841@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu-panwar-51819">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/priyanshupanwar066/linux-for-cloud">
+    <img src="https://img.shields.io/badge/Linux%20Learning-Repository-green?style=for-the-badge&logo=linux" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshupanwar066&color=blueviolet&style=flat-square)
+## 🧭 Professional Overview
 
-⭐ **Feel free to explore my repositories and connect!**
+I am a **results-driven Full Stack Developer** with hands-on experience in designing, developing, and deploying modern web applications.  
+My engineering approach focuses on **clean architecture, scalability, security, and performance**.
 
-</div>
+Currently, I am **actively learning Cloud Computing and DevOps** through structured, hands-on practice. I am building a strong foundation in **Linux system administration, AWS cloud services, containerization with Docker, and CI/CD automation** to transition into a Cloud/DevOps engineering role.
+
+📚 **What I'm Learning Right Now:**
+- **Linux Fundamentals** - Mastering command-line, system administration, shell scripting, and networking
+- **AWS Cloud Services** - EC2, S3, IAM, VPC, and cloud architecture patterns
+- **Docker & Containerization** - Building, managing, and deploying containerized applications
+- **CI/CD Pipelines** - Automating deployment workflows with GitHub Actions and Jenkins
+- **Infrastructure as Code** - Learning Terraform for cloud infrastructure automation
+
+🎯 I am documenting my learning journey in my repository: **[Linux for Cloud Engineering](https://github.com/priyanshupanwar066/linux-for-cloud)**
+
+---
+
+## 👨‍💻 About Me
+
+- 🌍 Location: **India**
+- 💼 Background: **Full Stack Developer (MERN + Next.js)**
+- ☁️ Career Direction: **Cloud & DevOps Engineering**
+- 📖 Currently Learning: **Linux, AWS, Docker, Kubernetes, CI/CD**
+- 🧠 Strong foundation in **Web Architecture, APIs & System Design**
+- 🔐 Interested in **Cloud Security, Infrastructure Automation & Best Practices**
+- 🤝 Open to **Junior / Fresher roles** in Cloud, DevOps & Software Engineering
+- 🚀 Goal: **Build and deploy production-grade cloud-native applications**
+
+---
+
+## 🛠️ Technical Skills & Tooling
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,materialui" />
+</p>
+
+- Responsive UI development
+- Component-driven architecture
+- Performance-focused layouts
+- Modern frontend workflows
+
+---
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- RESTful API design
+- Authentication & authorization (JWT)
+- Server-side rendering concepts
+- API security fundamentals
+
+---
+
+### 🗄️ Databases & Data Handling
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+- Schema design & normalization
+- CRUD operations
+- Query optimization basics
+- Relational & NoSQL understanding
+
+---
+
+### ☁️ Cloud & DevOps (Actively Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,githubactions,terraform" />
+</p>
+
+**What I'm Practicing:**
+- ✅ **Linux System Administration** - File systems, permissions, process management, networking, shell scripting
+- ✅ **AWS Cloud Platform** - EC2, S3, IAM, VPC, CloudWatch (foundational level)
+- ✅ **Docker Containerization** - Creating images, managing containers, Docker Compose
+- ✅ **CI/CD Automation** - GitHub Actions, deployment pipelines
+- 🔄 **Kubernetes** - Container orchestration (beginner level)
+- 🔄 **Terraform** - Infrastructure as Code (learning phase)
+
+**Learning Resources I'm Using:**
+- LabEx for hands-on Linux practice
+- AWS Free Tier for cloud experimentation
+- Docker official documentation
+- Real-world project deployments
+
+---
+
+### 🧰 Tools, Platforms & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,bash" />
+</p>
+
+- Version control & collaboration
+- UI/UX prototyping
+- Cloud-based deployments
+- Developer productivity tooling
+- Shell scripting & automation
+
+---
+
+## 🧠 Engineering Interests
+
+- ☁️ Cloud Infrastructure & Automation  
+- 🔧 DevOps Culture & CI/CD Pipelines  
+- 🐳 Containerization & Orchestration  
+- 🏗️ Scalable Backend Systems  
+- 📐 System Design (Beginner → Intermediate)  
+- 🔐 Cloud Security & Compliance  
+- 📊 Monitoring, Logging & Observability  
+
+---
+
+## 📚 Current Learning Roadmap
+
+### 🎯 Phase 1: Linux Fundamentals (Weeks 1-3) - IN PROGRESS
+- [x] Linux file system hierarchy
+- [x] Basic commands & navigation
+- [ ] File permissions & ownership
+- [ ] User & group management
+- [ ] Package management
+- [ ] Process management
+- [ ] Networking basics
+- [ ] Shell scripting
+
+### 🎯 Phase 2: Cloud Essentials (Weeks 4-5) - UPCOMING
+- [ ] Systemd services
+- [ ] Firewall configuration
+- [ ] Environment variables
+- [ ] Git version control
+- [ ] AWS EC2 deployment
+
+### 🎯 Phase 3: DevOps Tools (Weeks 6-8) - UPCOMING
+- [ ] Docker containerization
+- [ ] Docker Compose
+- [ ] CI/CD with GitHub Actions
+- [ ] Basic Kubernetes concepts
+
+---
+
+## 📁 Featured Learning Projects
+
+### 🐧 [Linux for Cloud Engineering](https://github.com/priyanshupanwar066/linux-for-cloud)
+A comprehensive repository documenting my Linux learning journey from fundamentals to cloud-ready skills. Includes:
+- Structured 6-week curriculum
+- Hands-on labs and exercises
+- Command cheatsheets
+- Real-world scenarios
+- DevOps tools integration
+
+*This repository is actively maintained as I progress through my cloud engineering learning path.*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupanwar066&theme=radical" />
+</p>
+
+---
+
+## 🎯 Career Goals
+
+I am seeking opportunities as a:
+
+- **Junior Cloud Engineer**
+- **DevOps Engineer (Fresher / Trainee)**
+- **Software Engineer (Cloud-focused)**
+- **Site Reliability Engineer (Entry Level)**
+
+Where I can:
+- Build and deploy scalable cloud-native systems  
+- Learn from real production environments  
+- Contribute to automation, reliability & infrastructure  
+- Grow expertise in cloud architecture & DevOps practices  
+
+---
+
+## 💡 What Sets Me Apart
+
+✨ **Full Stack Foundation**: Understanding of complete application architecture from frontend to backend  
+✨ **Active Learner**: Documenting my learning journey publicly and consistently practicing  
+✨ **Hands-on Approach**: Building real projects and labs, not just consuming tutorials  
+✨ **Problem-Solving Mindset**: Strong debugging skills and systematic approach to challenges  
+✨ **Communication**: Able to explain technical concepts clearly  
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+- 💬 Discussing cloud architecture and DevOps practices
+- 🤝 Collaborating on open-source projects
+- 📚 Sharing learning resources and experiences
+- 💼 Exploring junior/fresher opportunities in Cloud & DevOps
+
+📩 **Email:** priyanshupanwar841@gmail.com  
+🌐 **Portfolio:** https://priyanshu-panwar-dev.netlify.app  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/priyanshu-panwar-51819)  
+🐧 **Learning Journey:** [Linux for Cloud](https://github.com/priyanshupanwar066/linux-for-cloud)  
+
+---
+
+<p align="center">
+  <i>"Learning in public, building in private, growing every day."</i>
+</p>
+
+<p align="center">
+⭐ <b>If you find my profile interesting, feel free to explore my repositories and connect!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshupanwar066&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
