@@ -1,281 +1,312 @@
-<h1 align="center">👋 Hi, I'm Priyanshu Panwar</h1>
+# 👋 Hi, I'm Priyanshu Panwar
 
-<h3 align="center">
-☁️ AWS Certified Cloud Practitioner • Cloud & DevOps Engineer • Full Stack Developer
-</h3>
+### ☁️ AWS Cloud & DevOps Engineer | Kubernetes | Terraform | CI/CD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Engineer;Building+Scalable+Cloud-Native+Systems;Linux+%7C+AWS+%7C+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AWS+Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Cloud+Infrastructure+%7C+Automation;Building+Reliable+%26+Scalable+Systems" />
 </p>
 
 <p align="center">
   <a href="https://priyanshu-cloud-engineer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="mailto:priyanshupanwar841@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/priyanshu-panwar-cloud-devops">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/priyanshupanwar066">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  <a href="mailto:priyanshu.panwar841@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧭 Professional Overview
+## 🚀 About Me
 
-I am an **AWS Certified Cloud Practitioner** with hands-on experience in cloud infrastructure, containerization, CI/CD automation, and full-stack application deployment.
+I'm an **AWS Certified Cloud Practitioner** and **DevOps Engineer Intern** with hands-on experience in **AWS, Docker, Kubernetes, Terraform, Linux, and CI/CD automation**.
 
-My engineering approach focuses on **automation, scalability, reliability, security, and performance**. I enjoy building cloud-native solutions, automating deployment workflows, and deploying production-ready applications using modern DevOps practices.
+I enjoy building and deploying cloud-native applications, automating infrastructure, containerizing applications, and creating reliable deployment workflows.
 
-I have worked on projects involving **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, and cloud infrastructure automation**, while also maintaining strong foundations in full-stack development.
+My experience includes working with **AWS infrastructure, Dockerized MERN applications, GitHub Actions, Jenkins, SonarQube, Terraform, Kubernetes, Nginx, and Linux-based environments**.
 
----
+I also have a strong foundation in **Full-Stack Development**, which helps me understand applications from development through deployment and operations.
 
-## 🏆 Certifications
+```text
+Code → Build → Containerize → Automate → Deploy → Monitor → Improve
+```
 
-* 🥇 AWS Certified Cloud Practitioner
-* 🥇 Certified Kubernetes Application Developer (CKAD)
-* 🥇 Docker for Beginners
-* 🥇 Terraform in AWS from Basics to Guru
-* 🥇 Connect and Protect: Networks and Network Security
-* 🥇 SQL for Data Science
+🎯 **Current Focus:** AWS Cloud • Kubernetes • Terraform • CI/CD • Linux • Cloud Infrastructure
 
 ---
 
-## 👨‍💻 About Me
+# ☁️ Cloud & DevOps
 
-* 🌍 Location: **India**
-* 🎓 MCA (Data Science) Student at Bennett University
-* ☁️ AWS Certified Cloud Practitioner
-* 💼 Interested in Cloud Engineering & DevOps
-* 🐧 Linux Enthusiast
-* 🚀 Passionate about Cloud Automation & Infrastructure
-* 🔐 Interested in Cloud Security & Best Practices
-* 📖 Currently Exploring Advanced Kubernetes & Terraform
-* 🤝 Open to Cloud Engineer, DevOps Engineer & System Engineer Opportunities
-
----
-
-## 🛠️ Technical Skills & Tooling
-
-### ☁️ Cloud & DevOps
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,linux,bash" />
 </p>
 
-**Hands-On Experience**
+### AWS
 
-* AWS (EC2, S3, IAM, VPC, CloudWatch)
-* Docker & Docker Compose
-* Kubernetes Fundamentals
-* Terraform Infrastructure Automation
-* GitHub Actions CI/CD
-* Jenkins Automation
-* Linux Administration
-* Bash Scripting
+`EC2` `S3` `RDS` `ECS` `Lambda` `DynamoDB` `IAM` `VPC`
+
+`CloudWatch` `CloudFormation` `Route 53` `Auto Scaling` `ELB`
+
+### Containers & Orchestration
+
+`Docker` • `Docker Compose` • `Kubernetes` • `Nginx`
+
+### Infrastructure as Code
+
+`Terraform` • Modular Configurations • Automated Provisioning • Multi-Environment Setup
+
+### CI/CD & Automation
+
+`GitHub Actions` • `Jenkins` • `Git` • `GitHub` • `SonarQube` • `Bash` • `Python`
+
+### Operating Systems
+
+`Linux` • `Ubuntu` • `CentOS`
 
 ---
 
-### 🌐 Frontend Development
+# 💻 Development & Databases
+
+### Full-Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
 </p>
 
-* Responsive UI Development
-* Component-Based Architecture
-* Modern React & Next.js Applications
-* Performance Optimization
+`React.js` • `Next.js` • `Node.js` • `Express.js` • `REST APIs`
 
----
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-* REST API Development
-* JWT Authentication
-* Backend Architecture
-* API Security Fundamentals
-
----
-
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-* MongoDB Atlas
-* MySQL
-* PostgreSQL
-* Database Design & Optimization
+`MongoDB Atlas` • `MySQL` • `PostgreSQL`
+
+### Networking
+
+`TCP/IP` • `DNS` • `HTTP/HTTPS` • `SSH` • `VPN` • `Load Balancing`
+
+`Firewalls` • `Routing` • `Subnetting` • `Cisco Packet Tracer`
 
 ---
 
-### 🧰 Tools & Platforms
+# 💼 Professional Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman" />
-</p>
+### 🔧 DevOps Engineer Intern — Wyreflow Technologies
 
-* Git & GitHub
-* VS Code
-* Postman
-* Vercel
-* Netlify
-* Figma
+**Remote · Jun 2026 – Sep 2026**
 
----
-
-## 🚀 Featured Projects
-
-### ☁️ Fluent AI Cloud Deployment Platform
-
-**Tech Stack:** AWS EC2, Docker, Docker Compose, GitHub Actions, Nginx, MongoDB Atlas
-
-* Containerized full-stack AI application
-* Deployed on AWS EC2
-* Configured Nginx Reverse Proxy
-* Automated CI/CD workflows using GitHub Actions
-* Production-ready deployment architecture
+* ⚙️ Implemented CI/CD workflows using **GitHub Actions, Git, and Docker**
+* 🐳 Containerized and deployed **MERN applications** using Docker and Docker Compose
+* 🔍 Performed **SonarQube code-quality analysis and optimization**
+* 🛠️ Troubleshot containerized applications and deployment issues
+* 🤝 Collaborated with development teams on Git-based workflows
+* 🚀 Supported application configuration and DevOps deployment processes
 
 ---
 
-### ⚙️ Enterprise DevOps CI/CD Automation Pipeline
+# 🚀 Featured Projects
 
-**Tech Stack:** Docker, Kubernetes, Jenkins, GitHub Actions, AWS
+## ☁️ Fluent AI — Cloud Deployment Platform
 
-* Automated build and deployment pipelines
-* Containerized application delivery
-* Rolling deployment strategy
-* Automated testing workflows
-* Infrastructure monitoring & alerting
+**AWS EC2 · Docker · Docker Compose · GitHub Actions · Nginx · MongoDB Atlas**
 
----
+A full-stack AI application deployed using a containerized AWS architecture.
 
-### 🏗️ Multi-Cloud Infrastructure Automation Platform
+### Highlights
 
-**Tech Stack:** Terraform, Kubernetes, Docker, Linux
-
-* Infrastructure as Code implementation
-* Reusable Terraform modules
-* Automated cloud provisioning
-* Kubernetes deployment templates
-* Linux automation scripts
+* 🐳 Containerized the application using Docker and Docker Compose
+* ☁️ Deployed the application on **AWS EC2**
+* 🔀 Configured **Nginx Reverse Proxy**
+* 🔄 Automated build, test, and deployment using **GitHub Actions**
+* 🗄️ Integrated MongoDB Atlas
+* 🚀 Designed a practical cloud deployment workflow
 
 ---
 
-## 🧠 Engineering Interests
+## ⚙️ Enterprise DevOps CI/CD Automation Pipeline
+
+**Docker · Jenkins · Kubernetes · AWS · GitHub Actions**
+
+An end-to-end DevOps pipeline focused on automated application delivery.
+
+### Highlights
+
+* 🔄 Built CI/CD pipelines using **Jenkins and GitHub Actions**
+* 🐳 Automated Docker image builds
+* ☸️ Deployed containerized applications to Kubernetes
+* 🧪 Automated testing and validation workflows
+* 🚀 Implemented rolling deployment strategies
+* 🔙 Added monitoring and rollback workflows to improve deployment reliability
+
+---
+
+## 🏗️ Multi-Cloud Infrastructure Automation Platform
+
+**Terraform · AWS · Docker · Kubernetes · Linux**
+
+Infrastructure automation project focused on reproducible cloud environments.
+
+### Highlights
+
+* 🏗️ Created reusable **Terraform configurations**
+* ☁️ Automated AWS infrastructure provisioning
+* 🔧 Built modular infrastructure configurations
+* ☸️ Created Kubernetes deployment manifests
+* 🐧 Developed Linux automation scripts
+* ♻️ Standardized infrastructure and deployment environments
+
+---
+
+## 📊 Telecom Customer Churn Prediction Platform
+
+**AWS EC2 · S3 · IAM · CloudWatch · Docker · GitHub Actions · Python · Scikit-learn · SQL · React.js**
+
+A machine-learning platform deployed on AWS for analyzing telecom customer churn.
+
+### Highlights
+
+* 📈 Analyzed **243,000+ telecom records**
+* 🤖 Built churn prediction models using **Python and Scikit-learn**
+* 🐳 Dockerized the ML application
+* ☁️ Deployed the platform on **AWS EC2**
+* 🗄️ Used **Amazon S3** for storage
+* 🔐 Used **IAM** for access management
+* 📊 Used **CloudWatch** for monitoring
+* 🔄 Integrated **GitHub Actions** for CI/CD
+
+---
+
+# 🔄 DevOps Workflow
+
+```mermaid
+flowchart LR
+    A[👨‍💻 Development] --> B[GitHub]
+    B --> C[CI/CD]
+    C --> D[Docker Build]
+    D --> E[Container Registry]
+    E --> F[AWS / Kubernetes]
+    F --> G[🚀 Deployment]
+    G --> H[📊 Monitoring]
+    H --> B
+```
+
+---
+
+# 🧠 Engineering Interests
 
 * ☁️ Cloud Infrastructure
 * ⚙️ DevOps Engineering
 * 🐳 Containerization
 * ☸️ Kubernetes
 * 🏗️ Infrastructure as Code
+* 🔄 CI/CD Automation
 * 🔐 Cloud Security
 * 📊 Monitoring & Observability
-* 🚀 Site Reliability Engineering
+* 🌐 Networking
+* 🚀 Cloud-Native Architecture
+* 🛠️ Site Reliability & Platform Engineering
 
 ---
 
-## 🚀 Current Focus Areas
+# 📚 Certifications
 
-* Advanced Kubernetes
-* Terraform Best Practices
-* AWS Cloud Architecture
-* Infrastructure as Code
-* CI/CD Optimization
-* Monitoring & Logging
-* Cloud Security
+| Certification                                         | Provider             |
+| ----------------------------------------------------- | -------------------- |
+| ☁️ AWS Certified Cloud Practitioner                   | AWS                  |
+| ☸️ Certified Kubernetes Application Developer (CKAD)  | Pearson / Coursera   |
+| 🏗️ Terraform on AWS: From Basics to Guru             | Pearson / Coursera   |
+| 🐳 Docker for Beginners with Hands-on Labs            | KodeKloud / Coursera |
+| 🔐 Connect and Protect: Networks and Network Security | Google / Coursera    |
+| 🗄️ SQL for Data Science                              | UC Davis / Coursera  |
 
 ---
 
-## 📊 GitHub Analytics
+# 🎯 Current Focus
+
+```text
+☁️ AWS Cloud Architecture
+        ↓
+🐳 Docker & Containerization
+        ↓
+☸️ Kubernetes
+        ↓
+🏗️ Terraform & Infrastructure as Code
+        ↓
+🔄 CI/CD Automation
+        ↓
+📊 Monitoring & Observability
+        ↓
+🔐 Cloud Security
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshupanwar066&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupanwar066&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupanwar066&theme=radical" />
-</p>
-
----
-
-## 🎯 Career Goals
-
-I am seeking opportunities as a:
-
-* ☁️ Cloud Engineer
-* ⚙️ DevOps Engineer
-* 🏗️ Platform Engineer
-* 🚀 Site Reliability Engineer (SRE)
-* 💻 Associate System Engineer
-
-Where I can contribute to:
-
-* Cloud Infrastructure Deployment
-* Infrastructure Automation
-* CI/CD Engineering
-* Cloud-Native Solutions
-* DevOps Best Practices
-
----
-
-## 💡 What Sets Me Apart
-
-✨ Strong Cloud & DevOps Foundation
-
-✨ Hands-On AWS Deployment Experience
-
-✨ Full Stack Development Background
-
-✨ Infrastructure Automation Mindset
-
-✨ Continuous Learning & Public Documentation
-
-✨ Problem-Solving & Debugging Skills
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to:
-
-* ☁️ Cloud Engineering Discussions
-* ⚙️ DevOps & Automation Projects
-* 🚀 Open Source Contributions
-* 💼 Cloud & DevOps Opportunities
-
-📩 **Email:** [priyanshupanwar841@gmail.com](mailto:priyanshupanwar841@gmail.com)
-
-🌐 **Portfolio:** https://priyanshu-cloud-engineer.vercel.app/
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/priyanshu-panwar-cloud-devops
-
-🐙 **GitHub:** https://github.com/priyanshupanwar066
-
----
-
-<p align="center">
-  <i>"Automate. Deploy. Scale. Repeat."</i>
-</p>
-
-<p align="center">
-⭐ <b>Thanks for visiting my profile. Feel free to connect and explore my repositories!</b>
+  <img src="https://streak-stats.demolab.com?user=priyanshupanwar066&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+# 🎓 Education
+
+### Master of Computer Applications — Data Science
+
+**Bennett University, Greater Noida**
+`2025 – 2027 · Pursuing`
+
+### Bachelor of Computer Applications
+
+**Maa Shakumbhari University, Saharanpur**
+`2022 – 2025`
+
+---
+
+# 💼 Open to Opportunities
+
+I'm interested in entry-level opportunities as a:
+
+**☁️ Cloud Engineer · ⚙️ DevOps Engineer · 🏗️ Platform Engineer · 🖥️ System Engineer · 🚀 SRE**
+
+I'm particularly interested in roles involving:
+
+`AWS` • `Docker` • `Kubernetes` • `Terraform` • `CI/CD` • `Linux`
+
+---
+
+# 🤝 Let's Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshupanwar066&color=blueviolet&style=flat-square&label=Profile+Views" />
+
+<a href="https://priyanshu-cloud-engineer.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Explore-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshu-panwar-cloud-devops">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:priyanshu.panwar841@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>☁️ Build. Automate. Deploy. Scale. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshupanwar066&style=flat-square&label=Profile+Views" />
 </p>
