@@ -242,7 +242,7 @@ engineering:
 
 <div align="center">
 
-`AWS`   `Kubernetes`   `Terraform`   `Docker`   `CI/CD`   `Linux`
+`AWS`   `Kubernetes`   `Terraform`   `Docker`   `CI/CD`   `Linux`
 
 </div>
 
@@ -358,7 +358,7 @@ engineering:
 
 <br/><br/>
 
-### ☁️ Build   •   ⚙️ Automate   •   🚀 Deploy   •   📊 Monitor
+### ☁️ Build   •   ⚙️ Automate   •   🚀 Deploy   •   📊 Monitor
 
 <br/>
 
