@@ -2,7 +2,7 @@
 
 
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Cloud+Infrastructure+%7C+Automation;Building+Reliable+%26+Scalable+Systems" />
 
 <br/>
 
