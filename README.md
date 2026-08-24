@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0c4a6e,75:0369a1,100:06b6d4&height=240&section=header&text=PRIYANSHU%20PANWAR&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AWS%20CLOUD%20%26%20DEVOPS%20ENGINEER&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitHub+Actions+%7C+Jenkins;Cloud+Infrastructure+%7C+Automation;Building+Reliable+%26+Scalable+Systems" />
+
+
 
 <br/>
 
