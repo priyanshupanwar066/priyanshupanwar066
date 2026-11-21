@@ -45,7 +45,7 @@ CI/CD        : GitHub Actions / Jenkins
 OS           : Linux
 
 Certification:
-  AWS Certified Cloud Practitioner
+  AWS Certified Solution Architect
 
 Mission:
   Build it.
